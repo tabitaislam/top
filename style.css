@@ -1,0 +1,28 @@
+.image{height: 50px;}
+
+.set-1{
+    /* justify-content: center; */
+    padding-top: 10px;
+    padding-left: 4px;
+}
+.text{
+    color: #562EFF;
+    font-size:24px;
+    padding-bottom: 20px;
+
+}
+/* .full{ background-color: white;} */
+
+body{
+    background-color: antiquewhite;
+}
+.bordr{
+    border: solid 1px ;
+color: #D1D1D1;
+}
+.container{
+    max-width: 900px;
+}
+.navbar-collapse{
+    flex-grow: 0;
+}
